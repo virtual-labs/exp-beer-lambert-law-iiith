@@ -1,1 +1,1 @@
-## Experiment name
+## Verification of Beer-Lambert's law
