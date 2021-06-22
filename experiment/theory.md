@@ -10,7 +10,7 @@ Converting to the base 10 logarithm, the equation becomes:
 
 log ( I <sub>o</sub> / I <sub>t</sub> ) = A = ε c l
 
-where A = **absorbance** and ε , another constant = **absorptivity** (formerly called the **extinction coefficient** ). The absorptivity depends on the wavelength of light as well as on the identity of the absorbing substance and the identity of the solvent. If the concentration is measured in mol.L <subp>−1</sup> , the absorptivity is called the molar absorptivity.
+where A = **absorbance** and ε , another constant = **absorptivity** (formerly called the **extinction coefficient** ). The absorptivity depends on the wavelength of light as well as on the identity of the absorbing substance and the identity of the solvent. If the concentration is measured in mol.L <sup>−1</sup> , the absorptivity is called the molar absorptivity.
 
 Spectra are plotted either as absorbance, A, or as the transmittance, T, against wavelength, wavenumber or frequency, where T = ( I <sub>t</sub> /I <sub>o</sub> or sometimes as percentage transmittance = 100 T. The Beer-Lambert law applies equally to infrared absorption spectra. A can have any value from 0 to infinity. T must be between 0 and 1.
 

@@ -1,4 +1,4 @@
-1. Prepare a standard K <sub>2</sub> Cr <sub>2</sub> O <sub>7</sub> solution of strength nearly 3.16*10 <sup>-3</sup> M (for the experiments described here we have used a solution of strength=3.16¡Á10 -3 M). This is used as stock solution.
+1. Prepare a standard K <sub>2</sub> Cr <sub>2</sub> O <sub>7</sub> solution of strength nearly 3.16*10 <sup>-3</sup> M (for the experiments described here we have used a solution of strength=3.16*10 <sup>-3</sup> M). This is used as stock solution.
 From the above stock solution, prepare six different concentrations of K <sub>2</sub> Cr <sub>2</sub> O <sub>7</sub> . (In the experiments described here we have taken K 2 Cr 2 O 7 to water in the volume ratio of (i) 0.5 mL:9.5 mL, (ii) 1.0 mL:9.0 mL, (iii) 1.5 mL:8.5 mL, (iv) 2.0 mL:8.0 mL, and (v) 2.5 mL:7.5 mL, respectively. Calculate the molar concentrations of these solutions before proceeding for the measurements). Click on concentration bar to select the concentration of K <sub>2</sub> Cr <sub>2</sub> O <sub>7</sub> .  
 2. Turn on the instrument clicking on the power button and wait for 30 min for initialization of the instrument.  
 3. Click and drag on the concentration bar to choose the appropriate concentration of the solution whose absorbance has to be measured. One should start with the lowest concentration solution first. Why?  
@@ -20,7 +20,7 @@ From the above stock solution, prepare six different concentrations of K <sub>2<
 
 Table1. Absorbance values for different concentrations of K <sub>2</sub> Cr <sub>2</sub> O <sub>7</sub> at two different wavelengths.  
 
-|SNo|Concentration K <sub>2</sub> Cr <sub>2</sub> O <sub>7</sub> in (M)|λ <sub>max<sub> in nm|Absorbance at λ=350 nm|Absorbance another wavelength (say, λ=335|
+|SNo|Concentration K <sub>2</sub> Cr <sub>2</sub> O <sub>7</sub> in (M)|λ <sub>max</sub> in nm|Absorbance at λ=350 nm|Absorbance another wavelength (say, λ=335|
 |---|---------------------------------|----------------------------------|----------------------------------------|
 | 1 |	 1.58*10 <sup>-4</sup>        |
 | 2 |  	 3.16*10 <sup> -4</sup>       | 
