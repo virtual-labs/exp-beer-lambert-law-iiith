@@ -1,1 +1,0 @@
-To verify the linearity of Beer-Lambert law 

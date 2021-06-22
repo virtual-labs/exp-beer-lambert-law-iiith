@@ -1,1 +1,3 @@
 In absorption spectrometry the extent to which the intensity of the transmitted radiation decreases will depend on the path length through the sample and on the concentration of the absorbing species. Beer-Lambert law shows how the intensity of the transmitted radiation decreases with the path length through the sample and on the concentration of the absorbing species. Beer-Lambert law applies over a range of concentrations of many absorbing species. 
+
+To verify the linearity of Beer-Lambert law 
