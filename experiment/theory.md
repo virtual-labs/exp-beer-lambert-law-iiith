@@ -1,6 +1,6 @@
 # Beer-Lambert Law: Theoretical Foundation
 
-## Basic Principles
+### Basic Principles
 
 The Beer-Lambert law combines two fundamental principles:
 
@@ -8,7 +8,7 @@ The Beer-Lambert law combines two fundamental principles:
 
 2. **Beer's Law**: The transmittance of a stable solution is an exponential function of the concentration (c) of the absorbing solute.
 
-## Mathematical Formulation
+### Mathematical Formulation
 
 When both path length and concentration are variable, the combined Beer-Lambert law is expressed as:
 
@@ -25,7 +25,7 @@ where:
 - c = concentration
 - l = path length
 
-## Absorbance and Transmittance
+### Absorbance and Transmittance
 
 Converting to base 10 logarithm, the equation becomes:
 
@@ -40,7 +40,7 @@ where:
 The transmittance (T) is defined as:
 T = I<sub>t</sub>/I<sub>o</sub>
 
-## Key Characteristics
+### Key Characteristics
 
 1. **Linearity**: A plot of absorbance versus concentration should yield a straight line passing through the origin with slope = εl
 2. **Path Length**: When l = 1 cm, the slope equals the numerical value of ε
@@ -48,7 +48,7 @@ T = I<sub>t</sub>/I<sub>o</sub>
    - Absorbance (A) can range from 0 to infinity
    - Transmittance (T) must be between 0 and 1
 
-## Limitations and Deviations
+### Limitations and Deviations
 
 The Beer-Lambert law may show deviations from linearity due to:
 
@@ -61,7 +61,7 @@ The Beer-Lambert law may show deviations from linearity due to:
 4. **Physical Effects**: Changes in refractive index at high absorbance
 5. **Chemical Associations**: Molecular interactions affecting the absorbing species
 
-## Best Practices
+### Best Practices
 
 1. Use dilute solutions for better linearity
 2. Measure at absorbance maxima
