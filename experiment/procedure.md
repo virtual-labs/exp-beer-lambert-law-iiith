@@ -1,4 +1,4 @@
-# Experimental Procedure: Beer-Lambert Law Verification
+# Experimental Procedure
 
 ## Overview
 This experiment involves preparing solutions of potassium dichromate (K₂Cr₂O₇) at different concentrations and measuring their absorbance using a spectrophotometer to verify the Beer-Lambert Law.
