@@ -61,4 +61,3 @@ The Beer-Lambert law may show deviations from linearity due to:
 4. **Physical Effects**: Changes in refractive index at high absorbance
 5. **Chemical Associations**: Molecular interactions affecting the absorbing species
 
-
