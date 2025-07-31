@@ -1,0 +1,11 @@
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-beer-lambert-law-iiith/exp-beer-lambert-law-iiith/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/runner/work/exp-beer-lambert-law-iiith/exp-beer-lambert-law-iiith/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Validated true

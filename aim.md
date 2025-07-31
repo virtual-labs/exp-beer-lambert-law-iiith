@@ -1,0 +1,1 @@
+In absorption spectrometry, the intensity of transmitted radiation decreases based on two key factors: the path length through the sample and the concentration of the absorbing species. The Beer-Lambert law quantitatively describes this relationship and is fundamental to understanding absorption spectroscopy.
