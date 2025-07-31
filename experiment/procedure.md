@@ -1,32 +1,124 @@
-1. Prepare a standard K₂Cr₂O₇ solution of strength nearly 3.16x10 <sup>-3</sup> M (for the experiments described here we have used a solution of strength=3.16x10 <sup>-3</sup> M). This is used as stock solution.
-From the above stock solution, prepare six different concentrations of K₂Cr₂O₇ . (In the experiments described here we have taken K₂Cr₂O₇ to water in the volume ratio of (i) 0.5 mL:9.5 mL, (ii) 1.0 mL:9.0 mL, (iii) 1.5 mL:8.5 mL, (iv) 2.0 mL:8.0 mL, and (v) 2.5 mL:7.5 mL, respectively. Calculate the molar concentrations of these solutions before proceeding for the measurements). Click on concentration bar to select the concentration of K₂Cr₂O₇ .  
-2. Turn on the instrument clicking on the power button and wait for 30 min for initialization of the instrument.  
-3. Click and drag on the concentration bar to choose the appropriate concentration of the solution whose absorbance has to be measured. One should start with the lowest concentration solution first. Why?  
-4. Click on the beaker to take a clean, dry beaker.  
-5. Click on the volumetric flask to pour the solution into the clean, dry beaker.  
-6. Click on the micropipette to collect appropriate quantity of solution from the beaker.  
-7. Take a cuvette (quartz cuvette with a given path length, say, 1 cm) by clicking on it.  
-8. Pour the solution from the micropipette into the cuvette by clicking on the micropipette. (In real measurements, the cuvette is filled to two-third of its volume.)  
-9. Click on the spectrophotometer lid to open it.  
-10. Click on the cuvette to place it in the sample holder. One has to use water as the sample blank or reference in an identical cuvette for this measurement. Here a double beam spectrophotometer is shown. In this case, one can place the sample in the sample holder (often the front one) and the sample bank or reference in the reference holder (often the back one) simultaneously.  
-11. Run the wavelength scan by clicking on the Computer monitor first and then on the Scan button there to observe the wavelength scan. In the real spectrophotometer, an appropriate wavelength range of incident light for the sample can be chosen and the wavelength scan are run via the accompanied computer software. One can run the scan in absorbance or transmittance mode. The scan data is stored in the computer. If the spectrophotometer is a single beam instrument, then first the sample blank or reference is taken in a cuvette and the wavelength scan is run followed by the sample. One has to subtract the reference data from the sample data for respective wavelengths.  
-12. Click on Reset button to start new measurement.  
-13. Select next higher concentration and repeat the measurement. Every time one should rinse the cuvette taking a small portion of the solution from the solution that will be measured next. Similarly, one can repeat it for all the concentrations one after another.  
-14. Collect all data by clicking on the Data tab.  
-15. Plot the absorbance of the sample at various wavelengths for different concentrations and determine the wavelength of maximum absorptions i.e., spectral peak-positions.  
-16. Find out the wavelengths of maximum absorbance (λ<sub>max</sub> ), the absorbance at λ<sub>max</sub> and at another wavelength (say, 335 nm) for all the concentrations of K₂Cr₂O₇ and make a table containing these data.  
-17. Plot absorbance vs. concentration. Connect the points first with line segments. Then attempt linear fits and calculate linear regressions.  
-18. Verify the Beer-Lambert Law by observing whether absorbance and transmittance values have linear correlation with concentration or not. Discuss your results.  
+# Experimental Procedure: Beer-Lambert Law Verification
 
-Table 1. Absorbance values for different concentrations of K₂Cr₂O₇ at two different wavelengths.
+## Overview
+This experiment involves preparing solutions of potassium dichromate (K₂Cr₂O₇) at different concentrations and measuring their absorbance using a spectrophotometer to verify the Beer-Lambert Law.
 
-| S.No | Concentration K₂Cr₂O₇ (M) | λ<sub>max</sub> (nm) | Absorbance at λ=350 nm | Absorbance at λ=335 nm |
-|------|--------------------------|---------------------|----------------------|----------------------|
-| 1    | 1.58 × 10<sup>-4</sup>  | 350                 | 0.152               | 0.128               |
-| 2    | 3.16 × 10<sup>-4</sup>  | 350                 | 0.304               | 0.256               |
-| 3    | 4.74 × 10<sup>-4</sup>  | 350                 | 0.456               | 0.384               |
-| 4    | 6.32 × 10<sup>-4</sup>  | 350                 | 0.608               | 0.512               |
-| 5    | 7.90 × 10<sup>-4</sup>  | 350                 | 0.760               | 0.640               |
-| 6    | 9.48 × 10<sup>-4</sup>  | 350                 | 0.912               | 0.768               |
+## Materials Required
+- Potassium dichromate (K₂Cr₂O₇)
+- Distilled water
+- Volumetric flasks
+- Beakers
+- Micropipettes
+- Quartz cuvettes (1 cm path length)
+- Spectrophotometer
+- Computer with spectrophotometer software
 
-Note: The values in the table are theoretical and may vary slightly in actual measurements due to experimental conditions and instrument calibration. The absorbance values follow the Beer-Lambert law, showing a linear relationship with concentration at both wavelengths.
+## Step-by-Step Procedure
+
+### Step 1: Solution Preparation
+1. **Prepare Stock Solution**: Create a standard K₂Cr₂O₇ solution with concentration approximately 3.16 × 10⁻³ M.
+2. **Prepare Dilutions**: From the stock solution, prepare six different concentrations of K₂Cr₂O₇ using the following volume ratios:
+   - **Solution 1**: 0.5 mL K₂Cr₂O₇ : 9.5 mL water
+   - **Solution 2**: 1.0 mL K₂Cr₂O₇ : 9.0 mL water
+   - **Solution 3**: 1.5 mL K₂Cr₂O₇ : 8.5 mL water
+   - **Solution 4**: 2.0 mL K₂Cr₂O₇ : 8.0 mL water
+   - **Solution 5**: 2.5 mL K₂Cr₂O₇ : 7.5 mL water
+   
+   **Note**: Calculate the molar concentrations of these solutions before proceeding with measurements.
+
+### Step 2: Instrument Setup
+3. **Power On**: Turn on the spectrophotometer by clicking the power button.
+4. **Initialization**: Wait for 30 minutes for proper instrument initialization.
+
+### Step 3: Concentration Selection
+5. **Select Concentration**: Click and drag on the concentration bar to choose the appropriate concentration.
+   - **Important**: Start with the lowest concentration solution first.
+   - **Why start with lowest concentration?** This helps establish a baseline and ensures proper instrument calibration.
+
+### Step 4: Sample Preparation
+6. **Obtain Beaker**: Click on the beaker to take a clean, dry beaker.
+7. **Transfer Solution**: Click on the volumetric flask to pour the solution into the clean, dry beaker.
+8. **Collect Sample**: Click on the micropipette to collect the appropriate quantity of solution from the beaker.
+9. **Prepare Cuvette**: Take a quartz cuvette (1 cm path length) by clicking on it.
+10. **Fill Cuvette**: Pour the solution from the micropipette into the cuvette by clicking on the micropipette.
+    - **Note**: In real measurements, fill the cuvette to two-thirds of its volume.
+
+### Step 5: Spectrophotometer Operation
+11. **Open Instrument**: Click on the spectrophotometer lid to open it.
+12. **Place Sample**: Click on the cuvette to place it in the sample holder.
+    - **Reference Setup**: Use water as the sample blank/reference in an identical cuvette.
+    - **Double Beam Setup**: For double beam spectrophotometers, place the sample in the front holder and reference in the back holder simultaneously.
+
+### Step 6: Wavelength Scan
+13. **Initiate Scan**: 
+    - Click on the computer monitor first
+    - Then click on the Scan button to observe the wavelength scan
+14. **Scan Parameters**: 
+    - Choose appropriate wavelength range for incident light
+    - Run scan in absorbance or transmittance mode
+    - Data is automatically stored in the computer
+15. **Single Beam Considerations**: If using a single beam instrument:
+    - First run scan with sample blank/reference
+    - Then run scan with sample
+    - Subtract reference data from sample data for respective wavelengths
+
+### Step 7: Data Collection
+16. **Reset**: Click on Reset button to start new measurement.
+17. **Repeat Measurements**: 
+    - Select next higher concentration
+    - Repeat the measurement process
+    - **Important**: Rinse the cuvette with a small portion of the next solution before each measurement
+    - Continue for all concentrations sequentially
+18. **Collect Data**: Click on the Data tab to collect all experimental data.
+
+### Step 8: Data Analysis
+19. **Plot Absorbance Spectra**: Plot absorbance vs. wavelength for different concentrations to determine spectral peak positions.
+20. **Identify λ_max**: Find the wavelength of maximum absorbance (λ_max) for all concentrations.
+21. **Create Data Table**: Compile absorbance data at λ_max and at another wavelength (e.g., 335 nm) for all concentrations.
+
+## Experimental Data
+
+### Table 1: Absorbance Values for Different Concentrations of K₂Cr₂O₇
+
+| S.No | Concentration K₂Cr₂O₇ (M) | λ_max (nm) | Absorbance at λ=350 nm | Absorbance at λ=335 nm |
+|------|--------------------------|------------|----------------------|----------------------|
+| 1    | 1.58 × 10⁻⁴             | 350        | 0.152               | 0.128               |
+| 2    | 3.16 × 10⁻⁴             | 350        | 0.304               | 0.256               |
+| 3    | 4.74 × 10⁻⁴             | 350        | 0.456               | 0.384               |
+| 4    | 6.32 × 10⁻⁴             | 350        | 0.608               | 0.512               |
+| 5    | 7.90 × 10⁻⁴             | 350        | 0.760               | 0.640               |
+| 6    | 9.48 × 10⁻⁴             | 350        | 0.912               | 0.768               |
+
+**Note**: The values in the table are theoretical and may vary slightly in actual measurements due to experimental conditions and instrument calibration. The absorbance values follow the Beer-Lambert law, showing a linear relationship with concentration at both wavelengths.
+
+### Step 9: Verification and Analysis
+22. **Plot Calibration Curve**: Plot absorbance vs. concentration.
+    - Connect points with line segments
+    - Perform linear regression analysis
+    - Calculate correlation coefficient
+23. **Verify Beer-Lambert Law**: 
+    - Observe whether absorbance values show linear correlation with concentration
+    - Analyze transmittance values
+    - Discuss results and deviations from linearity
+
+## Best Practices
+
+### Experimental Considerations
+1. **Solution Preparation**: Use dilute solutions for better linearity
+2. **Wavelength Selection**: Measure at absorbance maxima (λ_max)
+3. **Light Source**: Use monochromatic light for accurate measurements
+4. **Temperature Control**: Maintain constant temperature throughout measurements
+5. **Cuvette Care**: Use clean, matched cuvettes
+6. **Instrument Calibration**: Properly zero the instrument with blank solution
+
+### Safety Precautions
+- Handle K₂Cr₂O₇ with care as it is toxic
+- Wear appropriate personal protective equipment
+- Dispose of solutions according to institutional guidelines
+- Clean all glassware thoroughly after use
+
+### Data Quality
+- Take multiple readings for each concentration
+- Ensure proper instrument calibration
+- Check for any systematic errors
+- Validate results with known standards

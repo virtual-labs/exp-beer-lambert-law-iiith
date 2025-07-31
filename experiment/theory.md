@@ -1,4 +1,4 @@
-# Beer-Lambert Law: Theoretical Foundation
+## Theoretical Foundation
 
 ### Basic Principles
 
@@ -61,11 +61,4 @@ The Beer-Lambert law may show deviations from linearity due to:
 4. **Physical Effects**: Changes in refractive index at high absorbance
 5. **Chemical Associations**: Molecular interactions affecting the absorbing species
 
-### Best Practices
 
-1. Use dilute solutions for better linearity
-2. Measure at absorbance maxima
-3. Use monochromatic light
-4. Maintain constant temperature
-5. Use clean, matched cuvettes
-6. Properly zero the instrument with blank solution
